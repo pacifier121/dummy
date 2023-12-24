@@ -1,2 +1,3 @@
-This is some text!
-Some more text!
+This is some text!<br>
+Some more text!<br>
+And some more
